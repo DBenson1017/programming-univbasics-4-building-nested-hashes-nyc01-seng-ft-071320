@@ -13,10 +13,10 @@ monopoly={
   :railroads => {
     :pieces => 4,
     :rent_in_dollars => {},
-    
+    :names => {}
   }
   }
-  monopoly
+  
 
 end
 
